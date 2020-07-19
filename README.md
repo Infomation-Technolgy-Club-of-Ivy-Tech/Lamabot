@@ -1,0 +1,2 @@
+# Lamabot
+Club Discord Bot
